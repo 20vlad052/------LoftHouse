@@ -1,0 +1,20 @@
+//Base
+@import './base/reset';
+@import './base/vars';
+@import './base/base';
+@import './base/mixin.scss';
+//Blocks
+
+@import './blocks/header';
+@import './blocks/nav';
+@import './blocks/nav-icon';
+@import './blocks/info';
+@import './blocks/benefits';
+@import './blocks/appartamens';
+@import './blocks/card';
+@import './blocks/callback';
+@import './blocks/form';
+@import './blocks/video';
+@import './blocks/section-map';
+@import './blocks/feedback';
+@import './blocks/footer';
